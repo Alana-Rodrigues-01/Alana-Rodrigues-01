@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alana-Rodrigues-01
 - 👀 I’m interested in logistics area
 - 🌱 I’m currently learning logistics
-- 📫 How to reach me my cell phone
+- 📫 How to reach me: my email
 - ⚡ Fun fact looking for learning
 
 <!---
