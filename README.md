@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alana-Rodrigues-01
+- 👋 Hi, I’m @Alana Rodrigues
 - 👀 I’m interested in logistics area
 - 🌱 I’m currently learning logistics
 - 📫 How to reach me: my email
