@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alana Rodrigues
-- 👀 I’m interested in logistics area
-- 📫 How to reach me: my email
-- ⚡ Fun fact: looking for learning
+-  Hi, I’m @Alana Rodrigues
+-  I’m interested in logistics area
+-  How to reach me: my email
+
 
 <!---
 Alana-Rodrigues-01/Alana-Rodrigues-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
