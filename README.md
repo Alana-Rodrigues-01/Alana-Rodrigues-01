@@ -1,5 +1,6 @@
--  Hi, I’m @Alana Rodrigues
--  Operador Logístico 
+-  Hi, I’m Alana Rodrigues
+-  Operador Logístico
+-  Cursando Logística - FATEC
 
 
 
