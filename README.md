@@ -1,5 +1,5 @@
 -  Hi, I’m @Alana Rodrigues
--  I’m interested in logistics area
+-  Operador Logístico 
 
 
 
