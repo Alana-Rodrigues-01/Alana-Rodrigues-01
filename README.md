@@ -1,6 +1,6 @@
 -  Hi, I’m @Alana Rodrigues
 -  I’m interested in logistics area
--  How to reach me: my email
+
 
 
 <!---
